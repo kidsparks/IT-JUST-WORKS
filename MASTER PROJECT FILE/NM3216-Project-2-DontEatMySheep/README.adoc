@@ -1,0 +1,12 @@
+= Don't Eat My Sheep!! (IN PROGRESS)
+
+* A game created by 4 members for a module in the National University of
+Singapore,  NM3216: Game Design.
+* A 2D top-down tower-defense game with endless waves.
+
+== Contributors
+* Producer - Tan Jing Wei
+* Programmer - Azizi Azfar
+* Content/ Asset Developer - Neo Shi Yi
+* Game Designer/ Writer - Boo Shangyou
+* QA/Testing -  Denise Chong Jun Li
